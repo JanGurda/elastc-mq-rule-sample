@@ -1,0 +1,3 @@
+queueUrl: http://localhost:8888/queue/sample-queue
+awsAccessKey: x
+awsSecretKey: x
